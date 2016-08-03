@@ -1,0 +1,1464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Predictive Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-16 09:51+0700\n"
+"PO-Revision-Date: 2016-02-16 09:51+0700\n"
+"Last-Translator: Nguyen Cong Tuan <mr.nguyencongtuan@gmail.com>\n"
+"Language-Team: a3rev\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-interface.php:171
+msgid "Great! You have the latest version installed."
+msgstr ""
+
+#: admin/admin-interface.php:236
+msgid "Settings successfully saved."
+msgstr ""
+
+#: admin/admin-interface.php:244
+msgid "Error: Settings can not save."
+msgstr ""
+
+#: admin/admin-interface.php:252
+msgid "Settings successfully reseted."
+msgstr ""
+
+#: admin/admin-interface.php:273
+msgid "Thin"
+msgstr ""
+
+#: admin/admin-interface.php:274
+msgid "Thin/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:275
+msgid "Normal"
+msgstr ""
+
+#: admin/admin-interface.php:276
+msgid "Italic"
+msgstr ""
+
+#: admin/admin-interface.php:277
+msgid "Bold"
+msgstr ""
+
+#: admin/admin-interface.php:278
+msgid "Bold/Italic"
+msgstr ""
+
+#: admin/admin-interface.php:288
+msgid "Solid"
+msgstr ""
+
+#: admin/admin-interface.php:289
+msgid "Double"
+msgstr ""
+
+#: admin/admin-interface.php:290
+msgid "Dashed"
+msgstr ""
+
+#: admin/admin-interface.php:291
+msgid "Dotted"
+msgstr ""
+
+#: admin/admin-interface.php:292
+msgid "Groove"
+msgstr ""
+
+#: admin/admin-interface.php:293
+msgid "Ridge"
+msgstr ""
+
+#: admin/admin-interface.php:294
+msgid "Inset"
+msgstr ""
+
+#: admin/admin-interface.php:295
+msgid "Outset"
+msgstr ""
+
+#: admin/admin-interface.php:1552 admin/admin-interface.php:1638
+#: admin/admin-interface.php:1738 admin/admin-interface.php:1886
+#: admin/admin-interface.php:1976 admin/admin-interface.php:2005
+#: admin/settings/all-results-page-settings.php:207
+#: admin/settings/all-results-page-settings.php:218
+#: admin/settings/all-results-page-settings.php:229
+#: admin/settings/all-results-page-settings.php:240
+#: admin/settings/all-results-page-settings.php:251
+#: admin/settings/exclude-content-settings.php:277
+#: admin/settings/global-settings.php:229
+#: admin/settings/global-settings.php:264
+#: admin/settings/global-settings.php:281
+#: admin/settings/global-settings.php:287
+#: admin/settings/global-settings.php:293
+#: admin/settings/global-settings.php:327
+msgid "ON"
+msgstr ""
+
+#: admin/admin-interface.php:1553 admin/admin-interface.php:1639
+#: admin/admin-interface.php:1739 admin/admin-interface.php:1887
+#: admin/admin-interface.php:1977 admin/admin-interface.php:2006
+#: admin/settings/all-results-page-settings.php:208
+#: admin/settings/all-results-page-settings.php:219
+#: admin/settings/all-results-page-settings.php:230
+#: admin/settings/all-results-page-settings.php:241
+#: admin/settings/all-results-page-settings.php:252
+#: admin/settings/exclude-content-settings.php:278
+#: admin/settings/global-settings.php:230
+#: admin/settings/global-settings.php:265
+#: admin/settings/global-settings.php:282
+#: admin/settings/global-settings.php:288
+#: admin/settings/global-settings.php:294
+#: admin/settings/global-settings.php:328
+msgid "OFF"
+msgstr ""
+
+#: admin/admin-interface.php:1558
+msgid "Google Fonts API"
+msgstr ""
+
+#: admin/admin-interface.php:1570
+msgid ""
+"ON to connect to Google Fonts API and have auto font updates direct from "
+"Google."
+msgstr ""
+
+#: admin/admin-interface.php:1574
+#, php-format
+msgid ""
+"Enter your existing Google Fonts API Key below. Don't have a key? Visit <a "
+"href='%s' target='_blank'>Google Developer API</a> to create a key"
+msgstr ""
+
+#: admin/admin-interface.php:1591
+msgid "Google Fonts API Key"
+msgstr ""
+
+#: admin/admin-interface.php:1594
+msgid "Your Google API Key is valid and automatic font updates are enabled."
+msgstr ""
+
+#: admin/admin-interface.php:1595
+msgid "Please enter a valid Google API Key."
+msgstr ""
+
+#: admin/admin-interface.php:1614
+msgid "Check New Version"
+msgstr ""
+
+#: admin/admin-interface.php:1625
+msgid "Check Now"
+msgstr ""
+
+#: admin/admin-interface.php:1644
+msgid "Open Box Display"
+msgstr ""
+
+#: admin/admin-interface.php:1657
+msgid ""
+"ON and each admin panel setting box OPEN | CLOSED position are saved each "
+"time changes are SAVED."
+msgstr ""
+
+#: admin/admin-interface.php:2041
+msgid "Width"
+msgstr "Latime"
+
+#: admin/admin-interface.php:2043
+#, fuzzy
+msgid "Height"
+msgstr "Dreapta"
+
+#: admin/admin-interface.php:2045
+msgid "Hard Crop"
+msgstr ""
+
+#: admin/admin-interface.php:2118
+msgid "-- Default Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:2129
+msgid "-- Google Fonts --"
+msgstr ""
+
+#: admin/admin-interface.php:2170
+msgid "Preview your customized typography settings"
+msgstr ""
+
+#: admin/admin-interface.php:2279 admin/admin-interface.php:2513
+msgid "Preview your customized border settings"
+msgstr ""
+
+#: admin/admin-interface.php:2288 admin/admin-interface.php:2504
+msgid "Rounded"
+msgstr ""
+
+#: admin/admin-interface.php:2289 admin/admin-interface.php:2505
+msgid "Square"
+msgstr ""
+
+#: admin/admin-interface.php:2299 admin/admin-interface.php:2518
+msgid "Top Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2319 admin/admin-interface.php:2538
+msgid "Top Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2339 admin/admin-interface.php:2558
+msgid "Bottom Right Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2359 admin/admin-interface.php:2578
+msgid "Bottom Left Corner"
+msgstr ""
+
+#: admin/admin-interface.php:2446
+msgid "Preview your customized border styles settings"
+msgstr ""
+
+#: admin/admin-interface.php:2629
+msgid "YES"
+msgstr ""
+
+#: admin/admin-interface.php:2630
+msgid "NO"
+msgstr ""
+
+#: admin/admin-interface.php:2644
+msgid "Horizontal Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2662
+msgid "Vertical Shadow"
+msgstr ""
+
+#: admin/admin-interface.php:2680
+msgid "Blur Distance"
+msgstr ""
+
+#: admin/admin-interface.php:2698
+msgid "Spread Size"
+msgstr ""
+
+#: admin/admin-interface.php:2716
+msgid "INNER"
+msgstr ""
+
+#: admin/admin-interface.php:2717
+msgid "OUTER"
+msgstr ""
+
+#: admin/admin-interface.php:2735
+msgid "Preview your customized box shadow settings"
+msgstr ""
+
+#: admin/admin-interface.php:3003
+msgid "Save changes"
+msgstr ""
+
+#: admin/admin-interface.php:3004
+#, fuzzy
+msgid "Reset Settings"
+msgstr "Setari globale"
+
+#: admin/admin-pages/predictive-search-page.php:63
+#: admin/admin-pages/predictive-search-page.php:64
+msgid "Predictive Search"
+msgstr "Cautare woocommerce"
+
+#: admin/admin-ui.php:109 admin/admin-ui.php:112
+msgid "Premium Version Enhanced Features"
+msgstr ""
+
+#: admin/admin-ui.php:113 classes/class-wc-predictive-search-filter.php:49
+#, fuzzy
+msgid "WooCommerce Predictive Search Premium"
+msgstr "WooCommerce Predictive Search Pro"
+
+#: admin/admin-ui.php:114
+msgid ""
+"Quick Video showing the main (not all) enhanced features that are built into "
+"the WooCommerce Predictive Search Premium version"
+msgstr ""
+
+#: admin/admin-ui.php:115
+msgid "Developer Support and Premium Features"
+msgstr ""
+
+#: admin/admin-ui.php:116
+msgid ""
+"Limited Time Offer. Purchase the Premium Version Lifetime License. That is a "
+"Lifetime of maintenance updates, feature upgrades and developer support for "
+"a once only fee. Offer ending soon."
+msgstr ""
+
+#: admin/admin-ui.php:117
+msgid "Get Premium Features and Support"
+msgstr ""
+
+#: admin/admin-ui.php:264
+#, php-format
+msgid "Settings inside this yellow border are %s Features."
+msgstr ""
+
+#: admin/admin-ui.php:266
+#, php-format
+msgid ""
+"Upgrade to the <a href=\"%s\" target=\"_blank\">%s</a> to activate these "
+"settings."
+msgstr ""
+
+#: admin/admin-ui.php:268 admin/admin-ui.php:270
+msgid "Pro Version"
+msgstr "Versiunea Pro"
+
+#: admin/admin-ui.php:320 admin/admin-ui.php:339
+msgid "You should check now to see if have any new version is available"
+msgstr ""
+
+#: admin/admin-ui.php:322
+#, php-format
+msgid ""
+"Connection Failure! Please try again. If this issue persists please create a "
+"support request on the plugin <a href=\"%s\" target=\"_blank\">a3rev support "
+"forum</a>."
+msgstr ""
+
+#: admin/admin-ui.php:330
+#, php-format
+msgid ""
+"There is a new version <span class=\"a3rev-ui-new-plugin-version\">%s</span> "
+"available, <a href=\"%s\" target=\"_blank\">update now</a> or download "
+"direct from <a href=\"%s\" target=\"_blank\">My Account</a> on a3rev.com"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:101
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/uploader/class-uploader.php:121
+#, fuzzy
+msgid "View File"
+msgstr "Vizualizeaza toate"
+
+#: admin/settings/all-results-page-settings.php:81
+#, fuzzy
+msgid "All Results Pages successfully saved."
+msgstr "Pagina cu Toate rezultatele"
+
+#: admin/settings/all-results-page-settings.php:82
+#, fuzzy
+msgid "Error: All Results Pages can not save."
+msgstr "Pagina cu Toate rezultatele"
+
+#: admin/settings/all-results-page-settings.php:83
+#, fuzzy
+msgid "All Results Pages successfully reseted."
+msgstr "Pagina cu Toate rezultatele"
+
+#: admin/settings/all-results-page-settings.php:136
+#: admin/tabs/all-results-pages-tab.php:78
+msgid "All Results Pages"
+msgstr "Pagina cu Toate rezultatele"
+
+#: admin/settings/all-results-page-settings.php:180
+msgid "Search results page settings"
+msgstr "Setarile paginii cu rezultatele cautarii"
+
+#: admin/settings/all-results-page-settings.php:184
+msgid "Results"
+msgstr "rezultate"
+
+#: admin/settings/all-results-page-settings.php:185
+msgid ""
+"The number of results to show before endless scroll click to see more "
+"results."
+msgstr ""
+"Numarul rezultatelor afisate inainte sa folositi scroll pentru mai multe "
+"rezultate."
+
+#: admin/settings/all-results-page-settings.php:192
+msgid "Description character count"
+msgstr "Numarul caracterelor din descriere"
+
+#: admin/settings/all-results-page-settings.php:193
+msgid ""
+"The number of characters from product descriptions that shows with each "
+"search result."
+msgstr "Numarul caracterelor din descriere pentru fiecare rezultat afisat."
+
+#: admin/settings/all-results-page-settings.php:200
+#: classes/class-wc-predictive-search-backbone.php:129
+#: classes/class-wpml-functions.php:59
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/settings/all-results-page-settings.php:201
+#, fuzzy
+msgid "ON to show product SKU with search results"
+msgstr "Arata codul SKU impreuna cu rezultatele"
+
+#: admin/settings/all-results-page-settings.php:211
+#: classes/class-wc-predictive-search-backbone.php:38
+#: classes/class-wc-predictive-search-backbone.php:130
+#: classes/class-wpml-functions.php:61
+msgid "Price"
+msgstr "Pret"
+
+#: admin/settings/all-results-page-settings.php:212
+#, fuzzy
+msgid "ON to show product price with search results"
+msgstr "Arata pretul produsului in rezultatele cautarii"
+
+#: admin/settings/all-results-page-settings.php:222
+msgid "Add to cart"
+msgstr "Adauga in cos"
+
+#: admin/settings/all-results-page-settings.php:223
+#, fuzzy
+msgid "On to show Add to cart button with search results"
+msgstr "Arata butonul Adauga in Cos impreuna cu rezultatele cautarii"
+
+#: admin/settings/all-results-page-settings.php:233
+#: classes/class-wpml-functions.php:55
+msgid "Product Categories"
+msgstr "Categorii produse"
+
+#: admin/settings/all-results-page-settings.php:234
+#, fuzzy
+msgid "On to show categories with search results"
+msgstr "Arata categoriile in rezultatele cautarii"
+
+#: admin/settings/all-results-page-settings.php:244
+#: classes/class-wpml-functions.php:56
+msgid "Product Tags"
+msgstr "Taguri produs"
+
+#: admin/settings/all-results-page-settings.php:245
+#, fuzzy
+msgid "On to show tags with search results"
+msgstr "Arata taguri cu rezultatele cautarii"
+
+#: admin/settings/exclude-content-settings.php:81
+msgid "Exclude Content Settings successfully saved."
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:82
+msgid "Error: Exclude Content Settings can not save."
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:83
+msgid "Exclude Content Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:170
+#: admin/tabs/exclude-content-tab.php:78
+msgid "Exclude Content"
+msgstr "Elimina continut"
+
+#: admin/settings/exclude-content-settings.php:265
+msgid "Exclude From Predictive Search"
+msgstr "Exclude din Predictive Search"
+
+#: admin/settings/exclude-content-settings.php:269
+msgid "Exclude Out Of Stock"
+msgstr ""
+
+#: admin/settings/exclude-content-settings.php:270
+#, fuzzy
+msgid "ON to exclude out of stock products from search results"
+msgstr ""
+"Activeaza Excluderea Categoriilor de produse, Etichetelor, Mesajelor si a "
+"paginilor din rezultatele cautarii."
+
+#: admin/settings/exclude-content-settings.php:281
+msgid "Exclude Products"
+msgstr "Exclude produse"
+
+#: admin/settings/exclude-content-settings.php:284
+msgid "Choose Products"
+msgstr "Alege produse"
+
+#: admin/settings/exclude-content-settings.php:290
+msgid "Exclude Posts"
+msgstr "Exclude postari"
+
+#: admin/settings/exclude-content-settings.php:293
+msgid "Choose Posts"
+msgstr "Alege postari"
+
+#: admin/settings/exclude-content-settings.php:299
+msgid "Exclude Pages"
+msgstr "Exclude pagini"
+
+#: admin/settings/exclude-content-settings.php:302
+msgid "Choose Pages"
+msgstr "Alege pagini"
+
+#: admin/settings/global-settings.php:82
+#, fuzzy
+msgid "Global Settings successfully saved."
+msgstr "Setari globale"
+
+#: admin/settings/global-settings.php:83
+msgid "Error: Global Settings can not save."
+msgstr ""
+
+#: admin/settings/global-settings.php:84
+msgid "Global Settings successfully reseted."
+msgstr ""
+
+#: admin/settings/global-settings.php:138
+msgid ""
+"<strong>SUCCESS</strong>! Your Predictive Search Database has been "
+"successfully updated."
+msgstr ""
+
+#: admin/settings/global-settings.php:174
+#: admin/tabs/global-settings-tab.php:78
+#, fuzzy
+msgid "Settings"
+msgstr "Setari globale"
+
+#: admin/settings/global-settings.php:218
+#, fuzzy
+msgid "Search Results No-Cache"
+msgstr "Arata taguri cu rezultatele cautarii"
+
+#: admin/settings/global-settings.php:219
+msgid ""
+"While testing different setting and the results in search box dropdown you "
+"need to switch ON Results No-Cache On. Search box dropdown results are "
+"cached in local store for frontend users for faster delivery on repeat "
+"searches. Be sure to turn this OFF when you are finished testing."
+msgstr ""
+
+#: admin/settings/global-settings.php:223
+#, fuzzy
+msgid "Results No-Cache"
+msgstr "rezultate"
+
+#: admin/settings/global-settings.php:234
+msgid "Global Search Box Text"
+msgstr "Textul din campul de cautare"
+
+#: admin/settings/global-settings.php:240
+msgid "Search Page Configuration"
+msgstr "Configurare pagina de cautare"
+
+#: admin/settings/global-settings.php:242
+msgid ""
+"Predictive Search has detected the WPML plugin. On install a search page was "
+"auto created for each language in use. Please use the WPML String "
+"Translations plugin to make translation for plugin text for each page. If "
+"adding another language after installing Predictive Search you have to "
+"manually create a search page for it."
+msgstr ""
+"Predictive Search a detectat pluginul WPML. La instalare o pagina de căutare "
+"a fost creata automat pentru fiecare limbă în uz. Va rugam sa folositi WPML "
+"String Traduceri plugin pentru a face o traducere pentru textul pluginului "
+"pentru fiiecare pagină. Dacă adăugați o altă limbă după instalarea "
+"Predictive Search, trebuie să creați manual o pagină de căutare pentru el."
+
+#: admin/settings/global-settings.php:242
+msgid ""
+"A search results page needs to be selected so that WooCommerce Predictive "
+"Search knows where to show search results. This page should have been "
+"created upon installation of the plugin, if not you need to create it."
+msgstr ""
+"Trebuie creata o pagina unde sa fie afisate rezultatele cautarii pentru ca "
+"WooCommerce Predictive Search sa stie unde sa afiseze rezultatele. Aceasta "
+"pagina trebuia sa fie creata inainte de instalarea plugin-ului, daca nu a "
+"fost creata trebuie sa o creati acum."
+
+#: admin/settings/global-settings.php:245
+msgid "Search Page"
+msgstr "Pagina de cautare"
+
+#: admin/settings/global-settings.php:246
+msgid "Page contents:"
+msgstr "Continutul paginii:"
+
+#: admin/settings/global-settings.php:252
+#, fuzzy
+msgid "Special Characters"
+msgstr "Caractere"
+
+#: admin/settings/global-settings.php:253
+msgid ""
+"Select any special characters that are used on this site. Selecting a "
+"character will mean that results will be returned when user search input "
+"includes or excludes the special character. <strong>IMPORTANT!</strong> Do "
+"not turn this feature on unless needed. If ON - only select actual "
+"characters used in Product Titles, SKU, Category Names etc - each special "
+"character selected creates 1 extra query per search object, per product, "
+"post or page."
+msgstr ""
+
+#: admin/settings/global-settings.php:257
+#, fuzzy
+msgid "Special Character Function"
+msgstr "Functii cautare"
+
+#: admin/settings/global-settings.php:273
+msgid "Character Syntax"
+msgstr ""
+
+#: admin/settings/global-settings.php:280
+msgid "IGNORE. ON to ignore or skip over special characters in the string."
+msgstr ""
+
+#: admin/settings/global-settings.php:286
+msgid "REMOVE. ON to remove or see special characters as a space."
+msgstr ""
+
+#: admin/settings/global-settings.php:286
+#, fuzzy
+msgid "recommended"
+msgstr "nerecomandat"
+
+#: admin/settings/global-settings.php:292
+msgid "BOTH. On to use ignore and remove for special characters."
+msgstr ""
+
+#: admin/settings/global-settings.php:300
+#, fuzzy
+msgid "Select Characters"
+msgstr "Caractere"
+
+#: admin/settings/global-settings.php:308
+msgid "Manual Database Sync"
+msgstr ""
+
+#: admin/settings/global-settings.php:309
+msgid ""
+"Predictive Search database is auto updated whenever a product or post is "
+"published or updated. Please run a Manual database sync if you upload "
+"products by csv or feel that Predictive Search results are showing old "
+"data.  Will sync the Predictive Search database with your current "
+"WooCommerce and WordPress databases"
+msgstr ""
+
+#: admin/settings/global-settings.php:315
+msgid "House Keeping"
+msgstr "Menajeaza plugin"
+
+#: admin/settings/global-settings.php:319
+msgid "Clean up on Deletion"
+msgstr "Curata tot la stergere plugin"
+
+#: admin/settings/global-settings.php:320
+#, fuzzy
+msgid ""
+"On deletion (not deactivate) the plugin it will completely remove all of its "
+"code and tables it has created, leaving no trace it was ever here. If "
+"upgrading to the Pro Version this is <span class=\"description\">not "
+"recommended</span>"
+msgstr ""
+"Selecteaza casuta si daca vei sterge vriodata acest plugin vor fi eliminate "
+"toate tabelele si datele aferente nelasand nimic in urma. Daca faci update "
+"la versiunea Pro acest lucru este"
+
+#: admin/settings/global-settings.php:345
+msgid ""
+"Enter the translated search box text for each language for WPML to show it "
+"correct on the front end."
+msgstr ""
+"Introduceți textul tradus pentru fiecare caseta de căutare pentru fiecare "
+"limbă pentru ca WPML sa afiseze corect pe front-end."
+
+#: admin/settings/global-settings.php:352
+#: admin/settings/global-settings.php:366
+msgid "Text to Show"
+msgstr "Text de aratat"
+
+#: admin/settings/global-settings.php:354
+#: admin/settings/global-settings.php:368
+msgid "&lt;empty&gt; shows nothing"
+msgstr "&lt;gold&gt; nu arata nimic"
+
+#: admin/settings/global-settings.php:378
+msgid "Sync Search Data"
+msgstr ""
+
+#: admin/settings/global-settings.php:380
+msgid "Sync Now"
+msgstr ""
+
+#: admin/settings/global-settings.php:382
+msgid "You have synced"
+msgstr ""
+
+#: admin/settings/global-settings.php:389
+#, fuzzy, php-format
+msgid "%s Product"
+msgstr "Produse"
+
+#: admin/settings/global-settings.php:399
+#, fuzzy, php-format
+msgid "%s Post"
+msgstr "Postari"
+
+#: admin/settings/global-settings.php:409
+#, fuzzy, php-format
+msgid "%s Page"
+msgstr "Pagina"
+
+#: admin/wc-predictive-search-init.php:8 admin/wc-predictive-search-init.php:9
+msgid "Woocommerce Predictive Search"
+msgstr "Woocommerce Predictive Search"
+
+#: classes/class-wc-predictive-search-backbone.php:48
+#: classes/class-wpml-functions.php:65
+#, fuzzy
+msgid "See more search results for"
+msgstr "Vezi mai multe rezultate ..."
+
+#: classes/class-wc-predictive-search-backbone.php:48
+#: classes/class-wpml-functions.php:66
+msgid "in"
+msgstr "in"
+
+#: classes/class-wc-predictive-search-backbone.php:135
+#: classes/class-wpml-functions.php:62
+msgid "Category"
+msgstr "Categorii"
+
+#: classes/class-wc-predictive-search-backbone.php:144
+#: classes/class-wpml-functions.php:63
+msgid "Tags"
+msgstr "Tag-uri"
+
+#: classes/class-wc-predictive-search-backbone.php:158
+#: classes/class-wpml-functions.php:74
+msgid "Nothing Found! Please refine your search and try again."
+msgstr "Nici un rezultat! Te rugam incearca din nou cu alte cuvinte."
+
+#: classes/class-wc-predictive-search-filter.php:46
+#, fuzzy
+msgid "Predictive Search Premium"
+msgstr "Cautare woocommerce"
+
+#: classes/class-wc-predictive-search-filter.php:47
+msgid ""
+"<strong>WANT MORE?</strong> - WooCommerce Predictive Search Premium gives a "
+"much deeper store catalog search"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:49
+msgid "Features"
+msgstr "Noutati"
+
+#: classes/class-wc-predictive-search-filter.php:52
+msgid ""
+"Search options includes Product Categories, Product SKU's, Product Tags."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:53
+#, fuzzy
+msgid "Full Site search optimization with Predictive Search 'Focus Keywords'."
+msgstr ""
+"Activeaza căutarea optimizată a site-ul cu căutare predictiva  'Focusare pe "
+"Cuvinte cheie'."
+
+#: classes/class-wc-predictive-search-filter.php:54
+#, fuzzy
+msgid "Full integration with Yoast SEO or All in One SEO plugins."
+msgstr ""
+"Activați integrarea cu Yoasts WordPress SEO sau All in One plugin-uri SEO."
+
+#: classes/class-wc-predictive-search-filter.php:55
+#, fuzzy
+msgid "Insert Predictive Search boxes by shortcode."
+msgstr "Introduc codul scurt pentru Woocommerce Predictive Search"
+
+#: classes/class-wc-predictive-search-filter.php:56
+#, fuzzy
+msgid "Exclude Product Cats, Product Tags from search results."
+msgstr ""
+"Activeaza Excluderea Categoriilor de produse, Etichetelor, Mesajelor si a "
+"paginilor din rezultatele cautarii."
+
+#: classes/class-wc-predictive-search-filter.php:57
+#, fuzzy
+msgid ""
+"Predictive Search PHP Function for adding the search box in any non widget "
+"area - example the header."
+msgstr ""
+"Activeaza Functia Predictive Search pentru a plasa casuta de cautare in "
+"orice zona fara widget din site-ul dumneavoastra - exemplu in  header(antet)."
+
+#: classes/class-wc-predictive-search-filter.php:58
+#, fuzzy
+msgid "Smart Search function with Widgets, Shortcode and the search Function."
+msgstr ""
+"Activeaza 'Cautare inteligenta' functie in Widgets, Scurtatura si functia de "
+"Cautare"
+
+#: classes/class-wc-predictive-search-filter.php:59
+msgid "Search Engine Performance enhancement settings for larger sites."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:60
+msgid "Google Analytics Site Search Integration."
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:63
+msgid "View this plugins"
+msgstr "Vizualizeaza aceste plugin-uri"
+
+#: classes/class-wc-predictive-search-filter.php:63
+msgid "documentation"
+msgstr "documentatie"
+
+#: classes/class-wc-predictive-search-filter.php:64
+msgid "Visit this plugins"
+msgstr "Viziteaza acest plugin"
+
+#: classes/class-wc-predictive-search-filter.php:64
+msgid "support forum"
+msgstr "forum de suport"
+
+#: classes/class-wc-predictive-search-filter.php:65
+msgid "More FREE a3rev WooCommerce Plugins"
+msgstr "Mai multe pluginuri gratis de la a3rev WooCommerce"
+
+#: classes/class-wc-predictive-search-filter.php:68
+#, fuzzy
+msgid "WooCommerce Product Sort & Display"
+msgstr "WooCommerce Widget Product Slideshow"
+
+#: classes/class-wc-predictive-search-filter.php:69
+#, fuzzy
+msgid "WooCommerce Products Quick View"
+msgstr "WooCommerce Widget Product Slideshow"
+
+#: classes/class-wc-predictive-search-filter.php:70
+msgid "WooCommerce Dynamic Products Gallery"
+msgstr "WooCommerce Dynamic Products Gallery"
+
+#: classes/class-wc-predictive-search-filter.php:71
+msgid "WooCommerce Compare Products"
+msgstr "WooCommerce Compare Products"
+
+#: classes/class-wc-predictive-search-filter.php:72
+msgid "WooCommerce Widget Product Slideshow"
+msgstr "WooCommerce Widget Product Slideshow"
+
+#: classes/class-wc-predictive-search-filter.php:73
+msgid "WooCommerce Email Inquiry & Cart Options"
+msgstr "WooCommerce Email Inquiry & Cart Options"
+
+#: classes/class-wc-predictive-search-filter.php:76
+msgid "FREE a3rev WordPress Plugins"
+msgstr "Gratis a3rev WordPress Plugins"
+
+#: classes/class-wc-predictive-search-filter.php:79
+msgid "a3 Lazy Load"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:79
+#, fuzzy
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce Compare Products"
+
+#: classes/class-wc-predictive-search-filter.php:80
+msgid "a3 Portfolio"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:81
+msgid "a3 Responsive Slider"
+msgstr ""
+
+#: classes/class-wc-predictive-search-filter.php:82
+msgid "Contact Us Page - Contact People"
+msgstr "Pagina de contact - Contacteaza-ne"
+
+#: classes/class-wc-predictive-search-filter.php:83
+msgid "WordPress Email Template"
+msgstr "Tema Email Wordpress"
+
+#: classes/class-wc-predictive-search-filter.php:84
+msgid "Page View Count"
+msgstr "Contorizare vizualizari"
+
+#: classes/class-wc-predictive-search-filter.php:94
+msgid "Documentation"
+msgstr "Documentare"
+
+#: classes/class-wc-predictive-search-filter.php:95
+msgid "Support"
+msgstr "Suport"
+
+#: classes/class-wc-predictive-search-shortcodes.php:84
+#: classes/class-wpml-functions.php:67
+#, fuzzy
+msgid "Viewing all"
+msgstr "Vizualizeaza toate"
+
+#: classes/class-wc-predictive-search-shortcodes.php:84
+#: classes/class-wpml-functions.php:68
+#, fuzzy
+msgid "search results for your search query"
+msgstr "Toate rezultatele pentru cautarea ta"
+
+#: classes/class-wc-predictive-search-shortcodes.php:94
+#: classes/class-wpml-functions.php:69
+#, fuzzy
+msgid "Sort Search Results by"
+msgstr "Arata taguri cu rezultatele cautarii"
+
+#: classes/class-wc-predictive-search-shortcodes.php:120
+#: classes/class-wpml-functions.php:70
+msgid "Loading More Results..."
+msgstr "Afiseaza mai multe rezultate"
+
+#: classes/class-wc-predictive-search-shortcodes.php:122
+#: classes/class-wpml-functions.php:71
+msgid "No More Results to Show"
+msgstr "Nu mai sunt rezultate de afisat"
+
+#: classes/class-wc-predictive-search-shortcodes.php:125
+#: classes/class-wpml-functions.php:72
+#, fuzzy
+msgid "Fetching search results..."
+msgstr "Arata taguri cu rezultatele cautarii"
+
+#: classes/class-wc-predictive-search-shortcodes.php:127
+#: classes/class-wpml-functions.php:73
+#, fuzzy
+msgid "No Results to Show"
+msgstr "Nu mai sunt rezultate de afisat"
+
+#: classes/class-wpml-functions.php:53
+#: includes/class-wc-predictive-search.php:205
+#: includes/class-wc-predictive-search.php:214
+#: includes/class-wc-predictive-search.php:220
+#: widget/wc-predictive-search-widgets.php:19
+msgid "Product Name"
+msgstr "Nume Produs"
+
+#: classes/class-wpml-functions.php:54
+msgid "Product SKU"
+msgstr "Produs SKU"
+
+#: classes/class-wpml-functions.php:57
+#: includes/class-wc-predictive-search.php:269
+#: includes/class-wc-predictive-search.php:278
+#: includes/class-wc-predictive-search.php:284
+#: widget/wc-predictive-search-widgets.php:20
+msgid "Posts"
+msgstr "Postari"
+
+#: classes/class-wpml-functions.php:58
+#: includes/class-wc-predictive-search.php:269
+#: includes/class-wc-predictive-search.php:278
+#: includes/class-wc-predictive-search.php:284
+#: widget/wc-predictive-search-widgets.php:21
+msgid "Pages"
+msgstr "Pagini"
+
+#: classes/class-wpml-functions.php:60
+msgid "Priced"
+msgstr "Pret"
+
+#: classes/class-wpml-functions.php:64 includes/class-legacy-api.php:130
+msgid "Nothing found for that name. Try a different spelling or name."
+msgstr ""
+
+#: widget/wc-predictive-search-widgets.php:28
+msgid ""
+"User sees search results as they type in a dropdown - links through to 'All "
+"Search Results Page' that features endless scroll."
+msgstr ""
+"Utilizatorul vede rezultatele de căutare,  pe verticală - si link inspre"
+"\"Vezi toate rezultatele\", care dispune de defilare fără sfârșit."
+
+#: widget/wc-predictive-search-widgets.php:29
+msgid "WooCommerce Predictive Search"
+msgstr "WooCommerce Predictive Search"
+
+#: widget/wc-predictive-search-widgets.php:173
+msgid "Title:"
+msgstr "Titlu:"
+
+#: widget/wc-predictive-search-widgets.php:182
+msgid "Search box text message"
+msgstr "Mesajul din casuta de cautare"
+
+#: widget/wc-predictive-search-widgets.php:189
+msgid "Search box text message:"
+msgstr "Mesajul din casuta de cautare:"
+
+#: widget/wc-predictive-search-widgets.php:191
+msgid ""
+"Activate search 'types' for this widget by entering the number of results to "
+"show in the widget dropdown. &lt;empty&gt; = not activated. Sort order by "
+"drag and drop"
+msgstr ""
+"Activeaza 'tipuri' de căutare pentru acest widget prin introducerea "
+"numărului de rezultate pentru a arăta în widget-ul vertical. &lt;gold&gt; = "
+"Ne activat. Ordinea de sortare prin drag and drop"
+
+#: widget/wc-predictive-search-widgets.php:199
+#, fuzzy
+msgid "Show Product prices"
+msgstr "Alege categorii de produse"
+
+#: widget/wc-predictive-search-widgets.php:201
+msgid " Results description character count:"
+msgstr "Numarul caracterelor din descrierea afisata:"
+
+#~ msgid "Exclude Product Categories"
+#~ msgstr "Exclude categorii de produse"
+
+#~ msgid "Choose Product Categories"
+#~ msgstr "Alege categorii de produse"
+
+#~ msgid "Exclude Product Tags"
+#~ msgstr "Exclude etichete de produs"
+
+#~ msgid "Choose Product Tags"
+#~ msgstr "Alege etichete de produs"
+
+#, fuzzy
+#~ msgid "Predictive Search Focus Keywords"
+#~ msgstr "Functie avansata de cautare"
+
+#, fuzzy
+#~ msgid "SEO Focus Keywords"
+#~ msgstr "Cuvant de cautare"
+
+#~ msgid "Select SEO plugin"
+#~ msgstr "Selecteaza SEO plugin"
+
+#~ msgid "Yoast WordPress SEO"
+#~ msgstr "Yoast WordPress SEO"
+
+#~ msgid "All in One SEO"
+#~ msgstr "Totul inclus SEO"
+
+#, fuzzy
+#~ msgid "Google Analytics Settings successfully saved."
+#~ msgstr "Setari globale"
+
+#, fuzzy
+#~ msgid "Error: Google Analytics Settings can not save."
+#~ msgstr "Pagina cu Toate rezultatele"
+
+#, fuzzy
+#~ msgid "Google Analytics Settings successfully reseted."
+#~ msgstr "Setari globale"
+
+#~ msgid "Predictive Search Function"
+#~ msgstr "Functie avansata de cautare"
+
+#, fuzzy
+#~ msgid "Customize Search Function values :"
+#~ msgstr "Personaliza valorile funcției de căutare"
+
+#~ msgid ""
+#~ "The values you set here will be shown when you add the global search "
+#~ "function to your header.php file. After adding the global function to "
+#~ "your header.php file you can change the values here and 'Update' and they "
+#~ "will be auto updated in the function."
+#~ msgstr ""
+#~ "Valorile setate aici vor fi afisate cand adaugi functia de cautare "
+#~ "globala in fisierul header.php. Dupa adaugarea functiei in fisierul "
+#~ "header.php poti sa modifici aici variatiile si ele vor fi automat "
+#~ "modificate."
+
+#~ msgid "Product name"
+#~ msgstr "Nume produs"
+
+#~ msgid ""
+#~ "Number of Product Name to show in search field drop-down. Leave &lt;"
+#~ "empty&gt; for not activated"
+#~ msgstr ""
+#~ "Numărul de Nume produs de arătat în câmpul de căutare verticală. Lasati "
+#~ "&lt;gol&gt; pentru ne activare"
+
+#~ msgid ""
+#~ "Number of Product SKU to show in search field drop-down. Leave &lt;"
+#~ "empty&gt; for not activated"
+#~ msgstr ""
+#~ "Numarul de Produs SKU afisat in cautarea live. Lasa &lt;gold&gt; pentru "
+#~ "neactivare"
+
+#~ msgid "Product category"
+#~ msgstr "Categorie produs"
+
+#~ msgid ""
+#~ "Number of Product Categories to show in search field drop-down. Leave &lt;"
+#~ "empty&gt; for not activated"
+#~ msgstr ""
+#~ "Numărul de categorii de produse ce vor fi arătate în câmpul de căutare "
+#~ "verticală. Lasati &lt;gol&gt; pentru ne activare"
+
+#~ msgid "Product tag"
+#~ msgstr "Eticheta produs"
+
+#~ msgid ""
+#~ "Number of Product Tags to show in search field drop-down. Leave &lt;"
+#~ "empty&gt; for not activated"
+#~ msgstr ""
+#~ "Numărul de Etichete produse ce va fi arătat în câmpul de căutare "
+#~ "verticală. Lasati &lt;gol&gt; pentru ne activare"
+
+#~ msgid ""
+#~ "Number of Posts to show in search field drop-down. Leave &lt;empty&gt; "
+#~ "for not activated"
+#~ msgstr ""
+#~ "Numărul de mesaje ce vor fi arătate în câmpul de căutare verticală. "
+#~ "Lasati &lt;gol&gt; pentru ne activare"
+
+#~ msgid ""
+#~ "Number of Pages to show in search field drop-down. Leave &lt;empty&gt; "
+#~ "for not activated"
+#~ msgstr ""
+#~ "Numărul de pagini ce vor fi arătate în câmpul de căutare verticală. "
+#~ "Lasati &lt;gol&gt; pentru ne activare"
+
+#, fuzzy
+#~ msgid "On to show Product prices"
+#~ msgstr "Alege categorii de produse"
+
+#~ msgid "Description Characters"
+#~ msgstr "Caracterele descrierii"
+
+#~ msgid ""
+#~ "Number of characters from product description to show in search field "
+#~ "drop-down. Default value is \"100\"."
+#~ msgstr ""
+#~ "Numărul de caractere de la descrierea produsului ce vor fi arătate în "
+#~ "câmpul de căutare verticală. Setarea implicita contine \"100\"."
+
+#~ msgid "Leave &lt;empty&gt; for 100% wide"
+#~ msgstr "Lasa &lt;gol&gt; pentru 100% latime"
+
+#~ msgid "Padding"
+#~ msgstr "Pozitionare"
+
+#~ msgid "Left"
+#~ msgstr "Stanga"
+
+#~ msgid "Right"
+#~ msgstr "Dreapta"
+
+#~ msgid "Custom style"
+#~ msgstr "Stil personalizat"
+
+#~ msgid "Put other custom style for the Predictive search box"
+#~ msgstr "Pune alt stil personalizat pentru caseta de căutare verticala"
+
+#~ msgid "Global search"
+#~ msgstr "Cautare globala"
+
+#, fuzzy
+#~ msgid ""
+#~ "On to set global search or search in current product category or current "
+#~ "product tag. \"Checked\" to activate global search."
+#~ msgstr ""
+#~ "Setați căutare la nivel global sau căutare în categoria de produse "
+#~ "actuale ori tag-ul de produse actuale. \"Selecteaza\" pentru activare "
+#~ "cautare globala."
+
+#~ msgid ""
+#~ "Copy and paste this global function into your themes header.php file to "
+#~ "replace any existing search function. (Be sure to delete the existing "
+#~ "WordPress, WooCommerce or Theme search function)"
+#~ msgstr ""
+#~ "Copiaza si lipeste acest cod de functionare in fisierul tau header.php "
+#~ "pentru a inlocui orice functie de cautare. (Asigurate ca ai sters orice "
+#~ "alta  functie de cautare existenta in WordPress, WooCommerce sau Tema "
+#~ "site-ului tau)"
+
+#~ msgid "Displaying top"
+#~ msgstr "Afisate sus"
+
+#~ msgid "results"
+#~ msgstr "rezultate"
+
+#~ msgid "Hide from Predictive Search results."
+#~ msgstr "Ascunde pentru Rezultatele cautarii avansate"
+
+#~ msgid "Predictive Search Meta"
+#~ msgstr "Predicitve search Meta"
+
+#~ msgid "Upgrade to"
+#~ msgstr "Update la"
+
+#~ msgid "to activate"
+#~ msgstr "pentru activare"
+
+#~ msgid "Focus Keywords"
+#~ msgstr "Cuvant de cautare"
+
+#~ msgid "Customize the Predictive Search Shortcode"
+#~ msgstr "Customizeaza codul scurt al Predictive Search"
+
+#~ msgid "View Docs"
+#~ msgstr "Vezi Info"
+
+#~ msgid "Number of"
+#~ msgstr "Numărul de"
+
+#~ msgid "results to show in dropdown"
+#~ msgstr "rezultate de afisat pe verticala"
+
+#~ msgid "Number of product description characters"
+#~ msgstr "Numarul de caractere al descrierii produsului"
+
+#~ msgid "Alignment"
+#~ msgstr "Aliniere"
+
+#~ msgid "None"
+#~ msgstr "Nimic"
+
+#~ msgid "Left - wrap"
+#~ msgstr "Stanga - cu wrap"
+
+#~ msgid "Left - no wrap"
+#~ msgstr "Stanga - fara wrap"
+
+#~ msgid "Center"
+#~ msgstr "Centrat"
+
+#~ msgid "Right - wrap"
+#~ msgstr "Dreapta - cu wrap"
+
+#~ msgid "Right - no wrap"
+#~ msgstr "Dreapta - fara wrap"
+
+#~ msgid "Horizontal aliginment of search box"
+#~ msgstr "Alinierea orizontala pentru casuta de cautare"
+
+#~ msgid "Search box width"
+#~ msgstr "Latimea casutei de cautare"
+
+#~ msgid "Above"
+#~ msgstr "Mai sus"
+
+#~ msgid "Below"
+#~ msgstr "Mai jos"
+
+#~ msgid "Insert Shortcode"
+#~ msgstr "Introdu codul"
+
+#~ msgid "Cancel"
+#~ msgstr "Anuleaza"
+
+#~ msgid "Upgrade to Predictive Search Pro"
+#~ msgstr "Update la Predictive Search Pro"
+
+#~ msgid ""
+#~ "<strong>NOTE:</strong> All the functions inside the Yellow border on the "
+#~ "plugins admin panel are extra functionality that is activated by "
+#~ "upgrading to the Pro version"
+#~ msgstr ""
+#~ "<strong>NOTA:</strong> Toate funcțiile din interiorul frontierei galben "
+#~ "de pe panoul admin plugin-uri sunt funcționalități suplimentare, care vor "
+#~ "fi activate de achizitionarea Versiunii Pro a pluginului."
+
+#~ msgid "Activate the Advance All Search results page customization setting."
+#~ msgstr "Activeaza Cautare Avansata Totala cu setari customizate ale pagini."
+
+#~ msgid ""
+#~ "Activate Search by Product Categories, Product Tags, Posts and Pages "
+#~ "options in the search widgets."
+#~ msgstr ""
+#~ "Activeaza cautarea dupa Categorii de produs, Etichete Produs, Mesaje si "
+#~ "Pagini optiuni in widget-ul de cautare."
+
+#~ msgid "Activate Search shortcodes for Posts and pages."
+#~ msgstr "Activeaza Cautare dupa coduri scurte pentru Mesaje si Pagini."
+
+#~ msgid "Multi Lingual Support. Fully compatible with WPML"
+#~ msgstr "Suport in mai multe limbi. Complet compatibil cu WPML"
+
+#~ msgid "More a3rev Quality Plugins"
+#~ msgstr "Mai multe pluginuri de calitate a3rev"
+
+#~ msgid ""
+#~ "Below is a list of the a3rev plugins that are available for free download "
+#~ "from wordpress.org"
+#~ msgstr ""
+#~ "Mai in jos gasiti o lista cu pluginuri gratuite oferite de a3rev ce pot "
+#~ "fi descarcate de pe wordpress.org"
+
+#~ msgid ""
+#~ "Yes you'll love the Predictive Search shortcode feature. Upgrading to the"
+#~ msgstr ""
+#~ "Da iti va placea codul scurt oferit de Predictive Search. Update la "
+
+#~ msgid ""
+#~ "activates this shortcode feature as well as the awesome 'Smart Search' "
+#~ "feature, per widget controls, the All Search Results page customization "
+#~ "settings and function features."
+#~ msgstr ""
+#~ "activează această funcție scurtătură, si si caracteristica 'Căutare "
+#~ "inteligentă', pe controale pentru widget-uri, si Vezi toate rezultatele "
+#~ "setările personalizate de pagini și alte functii."
+
+#~ msgid "Number of results to show:"
+#~ msgstr "Numarul rezultatelor de afisat:"
+
+#~ msgid "Search All Products"
+#~ msgstr "Cauta toate produsele"
+
+#~ msgid "Smart Search"
+#~ msgstr "Cautare inteligenta"
+
+#~ msgid "Help spread the Word about this plugin"
+#~ msgstr "Ajuta la promovarea acestui plugin"
+
+#~ msgid "Things you can do to help others find this plugin"
+#~ msgstr "Crezi ca poti ajuta pe altii sa gaseasca acest plugin"
+
+#~ msgid "Rate this plugin 5"
+#~ msgstr "Califica acest plugin 5"
+
+#~ msgid "on WordPress.org"
+#~ msgstr "pe WordPress.org"
+
+#~ msgid "Mark the plugin as a fourite"
+#~ msgstr "Marcheaza plugin-ul ca si favorit"
+
+#, fuzzy
+#~ msgid ""
+#~ "ON to optimize your sites content with Predictive Search 'Focus keywords'"
+#~ msgstr ""
+#~ "Activeaza pentru a optimiza continutul site-ului tau cu Predicitve Search "
+#~ "'Cuvinte de cautare' "
+
+#~ msgid "Activate SEO 'Focus Keywords'"
+#~ msgstr "Activeaza SEO 'Focus Keywords'"
+
+#~ msgid "Keep typing..."
+#~ msgstr "Continua sa scrii..."
+
+#, fuzzy
+#~ msgid ""
+#~ "Check this box and if you ever delete this plugin it will completely "
+#~ "remove all tables and data it created, leaving no trace it was ever here. "
+#~ "If upgrading to the Pro Version this is"
+#~ msgstr ""
+#~ "Selecteaza casuta si daca vei sterge vriodata acest plugin vor fi "
+#~ "eliminate toate tabelele si datele aferente nelasand nimic in urma. Daca "
+#~ "faci update la versiunea Pro acest lucru este"
+
+#~ msgid "Show product SKU with search results"
+#~ msgstr "Arata codul SKU impreuna cu rezultatele"
+
+#~ msgid "Show product price with search results"
+#~ msgstr "Arata pretul produsului in rezultatele cautarii"
+
+#~ msgid "Show Add to cart button with search results"
+#~ msgstr "Arata butonul Adauga in Cos impreuna cu rezultatele cautarii"
+
+#~ msgid "Show categories with search results"
+#~ msgstr "Arata categoriile in rezultatele cautarii"
+
+#~ msgid "Customize Search Function values"
+#~ msgstr "Personaliza valorile funcției de căutare"
+
+#~ msgid "Padding top"
+#~ msgstr "Distanta de sus in jos"
+
+#~ msgid "Padding bottom"
+#~ msgstr "Distanta de jos in sus"
+
+#, fuzzy
+#~ msgid "Padding lef"
+#~ msgstr "Distanta din stanga spre dreapta"
+
+#~ msgid "Padding right"
+#~ msgstr "Distanta din dreapta spre stanga"
+
+#~ msgid ""
+#~ "Set global search or search in current product category or current "
+#~ "product tag. \"Checked\" to activate global search."
+#~ msgstr ""
+#~ "Setați căutare la nivel global sau căutare în categoria de produse "
+#~ "actuale ori tag-ul de produse actuale. \"Selecteaza\" pentru activare "
+#~ "cautare globala."
+
+#~ msgid "Global Settings"
+#~ msgstr "Setari globale"
+
+#~ msgid ""
+#~ "Activate to optimize your sites content with Predictive Search 'Focus "
+#~ "keywords'"
+#~ msgstr ""
+#~ "Activeaza pentru a optimiza continutul site-ului tau cu Predicitve Search "
+#~ "'Cuvinte de cautare' "
+
+#~ msgid ""
+#~ "Connection Error! Could not reach the a3API on Amazon Cloud, the network "
+#~ "may be busy. Please try again in a few minutes."
+#~ msgstr ""
+#~ "Eroare de conectare! Nu sa putut ajunge la a3API pe Amazon Cloud, rețeaua "
+#~ "poate fi ocupata. Vă rugăm să încercați din nou în câteva minute."
+
+#~ msgid "Error: "
+#~ msgstr "Eroare:"
+
+#~ msgid "Thank you. This Authorization Key is valid."
+#~ msgstr "Multumim. Codul de licenta este corect."
+
+#~ msgid "No find the encryp.inc file. Please copy encryp.inc file to folder"
+#~ msgstr ""
+#~ "Nu se gaseste fisierul encryp.inc. Va rugam copiati encryp.inc in folder."
+
+#~ msgid "encryp.inc was modified. Please keep it by default"
+#~ msgstr "encryp.inc a fost modificat. Te rugam pastreaza-l ca si original"
+
+#~ msgid "Enter Your Plugin Authorization Key"
+#~ msgstr "Introduceti Codul de Activare al Plugin-ului."
+
+#~ msgid "Authorization Key"
+#~ msgstr "Codul de licenta."
+
+#~ msgid "Validate"
+#~ msgstr "Verifica"
+
+#~ msgid "PS Focus KW"
+#~ msgstr "PS Focus KW"
+
+#~ msgid "- No Change -"
+#~ msgstr "- Nici o schimbare -"
+
+#~ msgid "Change to:"
+#~ msgstr "Schimba in:"
+
+#, fuzzy
+#~ msgid "Enter Focus keywords"
+#~ msgstr "Cuvant de cautare"
+
+#~ msgid "Show / Hide"
+#~ msgstr "Arata / Ascunde"
+
+#, fuzzy
+#~ msgid "Hide from Predictive Search results"
+#~ msgstr "Ascunde pentru Rezultatele cautarii avansate"
+
+#, fuzzy
+#~ msgid "Show in Predictive Search results"
+#~ msgstr "Ascunde pentru Rezultatele cautarii avansate"
+
+#~ msgid "or"
+#~ msgstr "sau"
+
+#~ msgid "Purchase one now"
+#~ msgstr "Cumpara unul acum"
